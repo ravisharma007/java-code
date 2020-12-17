@@ -1,0 +1,11 @@
+import java.lang.*;
+
+public class sumofnumbers
+{
+	public static void main(String[] args)
+	{
+		double s=0;
+		s=s+Double.parseDouble(args);
+		System.out.println(s);
+	}
+}
